@@ -1,4 +1,4 @@
-# Algorithm Visualizer
+#  AlgoVis - Algorithm Visualizer
 
 > Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
 
